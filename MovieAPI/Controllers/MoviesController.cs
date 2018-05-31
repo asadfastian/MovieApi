@@ -12,6 +12,7 @@ namespace MovieAPI.Controllers
         public ActionResult Index()
         {
             return View();
+            //Added comment to a file
         }
     }
 }
