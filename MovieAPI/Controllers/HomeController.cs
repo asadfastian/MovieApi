@@ -25,6 +25,7 @@ namespace MovieAPI.Controllers
             ViewBag.Message = "Your contact page.";
 
             return View();
+            //test a
         }
     }
 }
